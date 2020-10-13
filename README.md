@@ -1,4 +1,4 @@
-# C-
+# C++
  Some C++ codes for practice
 Question 1:-
  Write a program in C++ to print the following pattern
